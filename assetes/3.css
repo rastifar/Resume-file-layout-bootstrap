@@ -1,0 +1,34 @@
+/* .position-absolute {
+  top: 78%;
+  left: 20%;
+} */
+footer{
+  width: 100%;
+  /* height: 180px; */
+}
+.bg-success{
+    background-color:#009688 !important ;
+}
+/* .test .text-success{
+  color:#009688  ;
+} */
+.text-success{
+   color:#009688 !important ;
+}
+.progress-bar{
+  border-top-right-radius: 40px !important;
+  border-bottom-right-radius: 40px !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+.progress{
+  border-radius: 40px !important;
+  background-color: rgb(229, 226, 226) !important;
+  
+  /* Changes below */
+  /* -webkit-box-shadow: inset 0 0 0 2px lightgray !important;
+  -moz-box-shadow: inset 0 0 0 2px lightgray !important;
+  box-shadow: inset 0 0 0 2px lightgray !important; */
+  /* border: none; */
+}
